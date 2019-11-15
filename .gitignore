@@ -40,6 +40,7 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/mongodb-win32-x86_64-2012plus-4.2.1
 
 # System Files
 .DS_Store
